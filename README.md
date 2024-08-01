@@ -1,2 +1,2 @@
-# PYTHON-GeneticAlgorithm-SnakeGame
-PYTHON | Implementing Genetic-Algorithm for WumpusWorld-GoldRush
+Implementing Genetic-Algorithm in Python for SnakeGame
+
